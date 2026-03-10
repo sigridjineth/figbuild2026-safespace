@@ -18,7 +18,7 @@ export default function LoginPage() {
             >
               🐘
             </div>
-            <h1 className="text-xl font-bold text-[#1a1a2e] mt-3">Welcome to Lucky</h1>
+            <h1 className="text-xl font-bold text-[#1a1a2e] mt-3">Welcome to SafeSpace</h1>
             <p className="text-sm text-[#64748b] mt-1">Your AI-powered stress regulation assistant</p>
           </div>
 
