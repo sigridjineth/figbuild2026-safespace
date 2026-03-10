@@ -1,6 +1,6 @@
-# Aura: Pre-Conscious Stress Forecasting
+# SafeSpace: Pre-Conscious Stress Forecasting
 
-**Your body knows stress is coming before you do.** Aura detects the pre-conscious cascade 5–20 minutes before you feel it, giving you time to regulate and take control.
+**Your body knows stress is coming before you do.** SafeSpace detects the pre-conscious cascade 5–20 minutes before you feel it, giving you time to regulate and take control.
 
 A speculative wearable + companion app prototype for stress prevention and interoceptive awareness.
 
@@ -10,7 +10,7 @@ A speculative wearable + companion app prototype for stress prevention and inter
 
 Stress management tools react *after* anxiety hits. By the time you notice the feeling, your nervous system is already escalating—heart rate climbing, breathing shallow, cortisol flooding. You're fighting an uphill battle.
 
-There's a gap between what your body is doing and what you're aware of. **That gap is where Aura lives.**
+There's a gap between what your body is doing and what you're aware of. **That gap is where SafeSpace lives.**
 
 ---
 
@@ -18,9 +18,9 @@ There's a gap between what your body is doing and what you're aware of. **That g
 
 What if you could feel your stress cascade *before it started*?
 
-Aura pairs a speculative **wearable patch** with a **companion iOS web app** to detect the pre-conscious signature of stress—the subtle shifts in body temperature, skin conductance, breathing rhythm, and muscle tension that precede conscious awareness by 5–20 minutes.
+SafeSpace pairs a speculative **wearable patch** with a **companion iOS web app** to detect the pre-conscious signature of stress—the subtle shifts in body temperature, skin conductance, breathing rhythm, and muscle tension that precede conscious awareness by 5–20 minutes.
 
-When Aura detects the pattern:
+When SafeSpace detects the pattern:
 - **You get a gentle notification** with a specific time-to-onset
 - **You have time to intervene** with breathwork, movement, or mindfulness
 - **The cascade never fully starts**
@@ -52,7 +52,7 @@ When Aura detects the pattern:
 
 ## Lucky the Elephant
 
-Lucky is Aura's companion mascot—a warm, encouraging presence throughout your journey. Lucky gives tips during regulation and relax sessions, celebrates your wins, and adapts emotionally to your state.
+Lucky is SafeSpace's companion mascot—a warm, encouraging presence throughout your journey. Lucky gives tips during regulation and relax sessions, celebrates your wins, and adapts emotionally to your state.
 
 **4 expressions:**
 - **Smiling** — encouraging, celebratory, proud
@@ -173,7 +173,7 @@ aura-app/
 
 ---
 
-## Speculative Technology: The Aura Patch
+## Speculative Technology: The SafeSpace Patch
 
 The wearable patch is a thin, flexible biosensor worn on the upper arm or chest. It continuously measures:
 
@@ -197,7 +197,7 @@ The wearable patch is a thin, flexible biosensor worn on the upper arm or chest.
 
 **Situation:** Finals week, back-to-back exams, sleep-deprived.
 
-**How Aura Helps:** At 11 PM, typing faster, breathing shallow, heart rate climbing — Aura detects the pre-panic signature. A notification arrives: "Your body needs 3 minutes." She opens the app, breathes with Lucky, and goes back to studying. **The spiral never starts.**
+**How SafeSpace Helps:** At 11 PM, typing faster, breathing shallow, heart rate climbing — SafeSpace detects the pre-panic signature. A notification arrives: "Your body needs 3 minutes." She opens the app, breathes with Lucky, and goes back to studying. **The spiral never starts.**
 
 **Outcome:** Finished exams calmer, with better sleep. More confident in high-pressure moments.
 
@@ -207,7 +207,7 @@ The wearable patch is a thin, flexible biosensor worn on the upper arm or chest.
 
 **Situation:** Six back-to-back meetings, no breaks. Stress compounding throughout the day.
 
-**How Aura Helps:** Aura forecasts a stress cascade building by 3 PM. "Step outside for 5 minutes" — he gets a nudge before he hits the wall. He takes a walk, comes back clearer. **His afternoon is better. His kids get the present dad, not the drained one.**
+**How SafeSpace Helps:** SafeSpace forecasts a stress cascade building by 3 PM. "Step outside for 5 minutes" — he gets a nudge before he hits the wall. He takes a walk, comes back clearer. **His afternoon is better. His kids get the present dad, not the drained one.**
 
 **Outcome:** Better work-life balance. More emotional availability for family.
 
@@ -217,7 +217,7 @@ The wearable patch is a thin, flexible biosensor worn on the upper arm or chest.
 
 **Situation:** Generalized anxiety with panic attack history. Working with a therapist.
 
-**How Aura Helps:** Over 6 weeks, Priya learns her personal pre-panic signature: a specific breathing pattern, typing rhythm shift, shoulder tension. Now she gets 10–20 minute warnings. **She shares the data with her therapist. Together, they decode her body.**
+**How SafeSpace Helps:** Over 6 weeks, Priya learns her personal pre-panic signature: a specific breathing pattern, typing rhythm shift, shoulder tension. Now she gets 10–20 minute warnings. **She shares the data with her therapist. Together, they decode her body.**
 
 **Outcome:** Breakthrough in self-detection. Therapy becomes more precise. She feels more in control.
 
@@ -225,14 +225,14 @@ The wearable patch is a thin, flexible biosensor worn on the upper arm or chest.
 
 ## Safeguards: Privacy, Consent & Ethics
 
-Aura is built with mental wellness ethics at its core. Every safeguard is a promise:
+SafeSpace is built with mental wellness ethics at its core. Every safeguard is a promise:
 
 1. **Privacy:** All data processed on-device. No cloud storage. No third-party trackers.
-2. **Consent:** Granular permissions for every data type. You control what Aura measures.
+2. **Consent:** Granular permissions for every data type. You control what SafeSpace measures.
 3. **Anti-Dependency:** The app reduces prompts as your interoceptive awareness grows. Goal: empower independence.
 4. **Clinical Mode:** Share anonymized session data with your therapist (opt-in only).
 5. **Emergency:** Quick access to crisis resources (988, text HOME, local services) if you're in acute distress.
-6. **Silent Mode:** Notification blackout when you choose. Aura respects your boundaries.
+6. **Silent Mode:** Notification blackout when you choose. SafeSpace respects your boundaries.
 7. **No Comparison:** Your journey is yours alone. No leaderboards, no social comparison.
 
 ---
@@ -255,7 +255,7 @@ Aura is built with mental wellness ethics at its core. Every safeguard is a prom
 
 ## FigBuild 2026 Submission
 
-**Project:** Aura: Pre-Conscious Stress Forecasting
+**Project:** SafeSpace: Pre-Conscious Stress Forecasting
 
 **Category:** Speculative Healthcare + Wellness
 

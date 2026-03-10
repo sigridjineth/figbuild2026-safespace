@@ -9,9 +9,8 @@ const nunito = Nunito({
 });
 
 export const metadata: Metadata = {
-  title: "Aura — Pre-Conscious Stress Forecasting",
-  description:
-    "Sense your stress before it arrives. A speculative wellness tool that detects pre-conscious stress signals and empowers preemptive intervention.",
+  title: "SafeSpace — AI Stress Regulation Assistant",
+  description: "SafeSpace is your AI-powered stress regulation assistant with Lucky the elephant.",
 };
 
 export const viewport: Viewport = {
